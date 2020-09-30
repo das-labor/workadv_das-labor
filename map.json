@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.das-labor.org\/"
+                 "value":"https:\/\/media.ccc.de\/"
                 }],
          "type":"tilelayer",
          "visible":true,
