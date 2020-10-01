@@ -97,7 +97,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"workshop"
+                 "value":"labor_workshop"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -115,7 +115,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"chillout"
+                 "value":"labor_chillout"
                 }],
          "type":"tilelayer",
          "visible":true,
