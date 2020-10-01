@@ -2,6 +2,8 @@
 
 A map for [WorkAdventure](https://workadventu.re).
 
+![Bild](map.png)
+
 ## Tools you will need
 
 In order to build your own map for WorkAdventure, you need:
