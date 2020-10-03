@@ -34,7 +34,7 @@ In particular, you will need to:
 - configure the "floor layer" (so that WorkAdventure can correctly display characters above the floor, but under the ceiling)
 - eventually, you can place exits that link to other maps
 
-All this is described in the [WorkAdventure documentation](https://github.com/thecodingmachine/workadventure/#designing-a-map).
+All this is described in the [WorkAdventure documentation](https://workadventu.re/create-map.html).
 Please be sure to check it out. 
 
 ### Pushing the map
