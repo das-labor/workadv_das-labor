@@ -36,8 +36,3 @@ In particular, you will need to:
 
 All this is described in the [WorkAdventure documentation](https://workadventu.re/create-map.html#about-workadventu-re-maps).
 Please be sure to check it out. 
-
-### Pushing the map
-
-When your changes are ready, you need to "commit" and "push" the changes back to GitHub.
-Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
