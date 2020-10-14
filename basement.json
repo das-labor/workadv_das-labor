@@ -25,7 +25,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#start_frombasement"
                 }],
          "type":"tilelayer",
          "visible":true,
