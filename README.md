@@ -3,7 +3,14 @@
 A map for [WorkAdventure](https://workadventu.re) showing 
 [Das Labor](https://das-labor.org) from Bochum.
 
+## EG
+
 ![Bild](map.png)
+
+## UG
+
+![Bild](basement.png)
+
 
 ## Tools you will need
 
