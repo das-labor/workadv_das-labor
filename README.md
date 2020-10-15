@@ -1,7 +1,7 @@
 # WorkAdventure Map for Das-Labor
 
 A map for [WorkAdventure](https://workadventu.re) showing 
-[Das Labor](https://das-labor.org) from Bochum.
+[Das Labor](https://das-labor.org) in Bochum.
 
 ## EG
 
