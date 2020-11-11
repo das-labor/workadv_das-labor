@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/DsAEQZNMxDk?autoplay=1"
+                 "value":"https:\/\/peertube.fidonet.io\/videos\/embed\/bf5b4993-1f01-4aa2-a572-42fd4b3e73dd\n"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -282,7 +282,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.3.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -1048,6 +1048,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":1.2,
  "width":46
 }
