@@ -3,6 +3,9 @@
 A map for [WorkAdventure](https://workadventu.re) showing 
 [Das Labor](https://das-labor.org) in Bochum.
 
+
+https://virtuallab.das-labor.org/
+
 ## EG
 
 ![Bild](map.png)
