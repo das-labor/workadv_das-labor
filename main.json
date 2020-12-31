@@ -79,7 +79,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#rc3"
+                 "value":"https:\/\/wiki.das-labor.org\/w\/Kontakt"
                 }],
          "type":"tilelayer",
          "visible":true,
