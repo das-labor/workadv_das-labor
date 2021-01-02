@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-PORT=8009
+PORT=8003
 
 # starting http server
 cd $(dirname $0)/.. 
