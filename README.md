@@ -31,7 +31,7 @@ After push it will be deployed to branch `gh-pages` and made available to
 github pages.
 
 The page leading to the workadventure-room is
-https://pintman.github.io/workadv_das-labor/
+https://das-labor.github.io/workadv_das-labor/
 
 Feel free to make pull requests.
 
