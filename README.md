@@ -24,7 +24,7 @@ In order to build your own map for WorkAdventure, you need:
 
 ## Customizing the map
 
-You find the map in `map.json`. You can open and edit
+You find the main map in `main.json`. You can open and edit
 it with the [Tiled](https://www.mapeditor.org/) editor.
 
 After push it will be deployed to branch `gh-pages` and made available to
