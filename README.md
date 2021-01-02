@@ -8,7 +8,7 @@ https://virtuallab.das-labor.org/
 
 ## EG
 
-![Bild](map.png)
+![Bild](main.png)
 
 ## UG
 
