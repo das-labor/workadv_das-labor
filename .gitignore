@@ -1,2 +1,6 @@
 # files from the rc3-world
 rC3World202012302104/
+
+# log file from dev server
+start_dev_server.sh.log
+
