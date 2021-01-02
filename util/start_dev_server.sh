@@ -4,9 +4,9 @@ PORT=8003
 LOGFILE=$0.log
 
 # starting http server
-cd $(dirname $0)/.. 
-python3 util/no_cors_server.py $PORT 2>&1 >> $LOGFILE &
+cd "$(dirname "$0")/.." || exit
+python3 util/no_cors_server.py "$PORT" >> "$LOGFILE" 2>&1 &
 
 # using ngrok to relay
-ngrok http $PORT
+ngrok http "$PORT"
 
