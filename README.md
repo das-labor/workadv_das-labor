@@ -47,3 +47,8 @@ In particular, you will need to:
 
 All this is described in the [WorkAdventure documentation](https://workadventu.re/create-map.html#about-workadventu-re-maps).
 Please be sure to check it out. 
+
+## Related Links
+
+- fediventure: [https://gitlab.com/fediventure/fediventure](repo), [pad](https://pad.inf.re/p/fediventure)
+
