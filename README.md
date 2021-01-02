@@ -50,5 +50,5 @@ Please be sure to check it out.
 
 ## Related Links
 
-- fediventure: [https://gitlab.com/fediventure/fediventure](repo), [pad](https://pad.inf.re/p/fediventure)
+- fediventure: [repo](https://gitlab.com/fediventure/fediventure), [pad](https://pad.inf.re/p/fediventure)
 
