@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.das-labor.org\/w\/Location_not_included_2020\/Workadventure\/basement"
+                 "value":"https:\/\/wiki.das-labor.org\/w\/Projekt\/Virtuelles_Labor\/basement"
                 }],
          "type":"tilelayer",
          "visible":true,
