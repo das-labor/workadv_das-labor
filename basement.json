@@ -115,7 +115,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.das-labor.org\/w\/Projekt\/Virtuelles_Labor\/basement"
+                 "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/basement_info.html"
                 }],
          "type":"tilelayer",
          "visible":true,
