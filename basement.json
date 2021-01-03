@@ -133,7 +133,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.das-labor.org\/w\/Projekt\/Virtuelles_Labor\/basement_portal"
+                 "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/portal_warning.html"
                 }],
          "type":"tilelayer",
          "visible":true,
