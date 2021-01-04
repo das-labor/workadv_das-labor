@@ -54,3 +54,4 @@ Please be sure to check it out.
 - [rc3 overview](https://miro.com/app/board/o9J_laWLPI8=/)
 - [rc3 World dump](https://github.com/rC3XBill/rC3World)
 - [rc3 world images](https://archive.org/details/rc3_complete/)
+- [tilesets](https://opengameart.org/content/terrain-transitions)
