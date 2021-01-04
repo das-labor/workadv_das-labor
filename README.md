@@ -51,4 +51,6 @@ Please be sure to check it out.
 ## Related Links
 
 - fediventure: [repo](https://gitlab.com/fediventure/fediventure), [pad](https://pad.inf.re/p/fediventure)
-
+- [rc3 overview](https://miro.com/app/board/o9J_laWLPI8=/)
+- [rc3 World dump](https://github.com/rC3XBill/rC3World)
+- [rc3 world images](https://archive.org/details/rc3_complete/)
