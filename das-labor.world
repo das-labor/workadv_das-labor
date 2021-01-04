@@ -1,0 +1,27 @@
+{
+    "maps": [
+        {
+            "fileName": "main.json",
+            "height": 544,
+            "width": 1472,
+            "x": 3744,
+            "y": 352
+        },
+        {
+            "fileName": "outside.json",
+            "height": 544,
+            "width": 832,
+            "x": 4575,
+            "y": -192
+        },
+        {
+            "fileName": "basement.json",
+            "height": 864,
+            "width": 1760,
+            "x": 2302,
+            "y": 0
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}
