@@ -50,6 +50,8 @@ Please be sure to check it out.
 
 ## Related Links
 
+- [chaos-world entrance](https://play.wa.binary-kitchen.de/_/global/c0c0bird.github.io/chaos-world/main.json)
+- [chaos-world repo](https://github.com/c0c0bird/chaos-world)
 - fediventure: [repo](https://gitlab.com/fediventure/fediventure), [pad](https://pad.inf.re/p/fediventure)
 - [rc3 overview](https://miro.com/app/board/o9J_laWLPI8=/)
 - [rc3 World dump](https://github.com/rC3XBill/rC3World)
