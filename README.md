@@ -50,6 +50,7 @@ Please be sure to check it out.
 
 ## Related Links
 
+- [map validator](https://github.com/tiefpunkt/rc3-world-map-validator)
 - [chaos-world entrance](https://play.wa.binary-kitchen.de/_/global/c0c0bird.github.io/chaos-world/main.json)
 - [chaos-world repo](https://github.com/c0c0bird/chaos-world)
 - fediventure: [repo](https://gitlab.com/fediventure/fediventure), [pad](https://pad.inf.re/p/fediventure)
