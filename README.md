@@ -60,3 +60,10 @@ Please be sure to check it out.
 - [rc3 World dump](https://github.com/rC3XBill/rC3World)
 - [rc3 world images](https://archive.org/details/rc3_complete/)
 - [tilesets](https://opengameart.org/content/terrain-transitions)
+
+## Credit
+
+- Backgroundsound: [Dave of defeat](https://freesound.org/people/DaveOfDefeat2248/sounds/323090/)
+- Dripping sound in basement [antwerpsoundesign](https://freesound.org/people/antwerpsounddesign/sounds/547253/)
+
+
