@@ -28,7 +28,7 @@
                  "value":"media\/323090__daveofdefeat2248__station-deep-ambience-bg.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
