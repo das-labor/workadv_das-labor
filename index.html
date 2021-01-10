@@ -6,15 +6,19 @@
                 if (path.endsWith('index.html')) {
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
-                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'main.json';
-                document.getElementById('mapLink').href = url;
-                document.getElementById('mapLink').innerText = url;
+                var url1 = 'https://play.workadventu.re/_/global/'+window.location.host+path+'main.json';
+                var url2 = 'https://play.wa.binary-kitchen.de/_/global/'+window.location.host+path+'main.json';
+                document.getElementById('mapLink1').href = url1;
+                document.getElementById('mapLink1').innerText = url1;
+                document.getElementById('mapLink2').href = url2;
+                document.getElementById('mapLink2').innerText = url2;
             };
         </script>
     </head>
     <body>
         This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
         <br/>
-        You can access this map at <a id="mapLink" href=""></a>
+        You can access this map at <a id="mapLink1" href=""></a>
+        or <a id="mapLink2" href=""></a>
     </body>
 </html>
