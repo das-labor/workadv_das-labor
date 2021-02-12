@@ -3,7 +3,7 @@ name: Optimize map and deploy
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
 
