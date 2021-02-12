@@ -24,7 +24,7 @@ jobs:
           ls -al
           git config --global user.email "d.negrier@thecodingmachine.com"
           git config --global user.name "David Négrier"
-          git checkout master
+          git checkout main
           git commit -am "Adding files"
 
       - name: Deploy
