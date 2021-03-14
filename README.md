@@ -48,6 +48,12 @@ In particular, you will need to:
 All this is described in the [WorkAdventure documentation](https://workadventu.re/create-map.html#about-workadventu-re-maps).
 Please be sure to check it out. 
 
+## Metrics
+
+The pusher provides metrics of an instance under `/metrics` - e.g.
+https://pusher.wa.binary-kitchen.de/metrics or 
+https://pusher.kraut.world/metrics
+
 ## Related Links
 
 - [rc world link](https://links.rc3.world/)
