@@ -17,6 +17,6 @@ for line in lines:
         # line of format
         # workadventure_nb_clients_per_room{room="_/global/das-labor.github.io/workadv_das-labor/main.json"} -280
         num = int(line_str.split(' ')[1])
-        room = line_str.split(ROOM_PREFIX)[1].split('"}')[0]
+        room = line_str.split(ROOM_PREFIX)[1].split('.json')[0]
 
         print(num, "in", room)
