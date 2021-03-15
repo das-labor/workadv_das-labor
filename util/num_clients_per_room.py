@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from urllib.request import urlopen
 
 PUSHER_URL = "https://pusher.wa.binary-kitchen.de"
