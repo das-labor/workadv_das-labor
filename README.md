@@ -52,7 +52,8 @@ Please be sure to check it out.
 
 The pusher provides metrics of an instance under `/metrics` - e.g.
 https://pusher.wa.binary-kitchen.de/metrics or 
-https://pusher.kraut.world/metrics
+https://pusher.kraut.world/metrics or 
+https://pusher.workadventu.re/metrics
 
 ## Related Links
 
