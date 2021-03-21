@@ -53,7 +53,7 @@ Please be sure to check it out.
 Each conference room area links to a jitsi room that can be accessed via
 `https://jitsi.binary-kitchen.de/$ROOM` where `$ROOM` is the room name used
 in the `jitsiRoom` layer property. The script 
-[util/jitsiRooms.py](jitsiRooms.py) can be used
+[jitsiRooms.py](util/jitsiRooms.py) can be used
 to retreive rooms and theirs corresponding jitis room URLs.
 
 ## Metrics
