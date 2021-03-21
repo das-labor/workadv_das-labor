@@ -48,6 +48,13 @@ In particular, you will need to:
 All this is described in the [WorkAdventure documentation](https://workadventu.re/create-map.html#about-workadventu-re-maps).
 Please be sure to check it out. 
 
+## Jitsi-Room
+
+Each conference room area links to a jitsi room that can be accessed via
+`https://jitsi.binary-kitchen.de/$ROOM` where `$ROOM` is the room name used
+in the `jitsiRoom` layer property. The script `util/jitsiRooms.py` can be used
+to retreive rooms and theirs corresponding jitis room URLs.
+
 ## Metrics
 
 The pusher provides metrics of an instance under `/metrics` - e.g.
