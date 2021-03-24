@@ -98,6 +98,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/main_changelog.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -302,6 +307,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/wiki.das-labor.org\/w\/Futterquellen"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
