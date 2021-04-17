@@ -24,7 +24,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"media\/24419__andre-nascimento__empty-glass-bottle-rolling-on-floor.wav"
+                 "value":"media\/24419__andre-nascimento__empty-glass-bottle-rolling-on-floor.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
