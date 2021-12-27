@@ -65,7 +65,7 @@ https://pusher.workadventu.re/metrics
 
 ## Related Links
 
-- [rc world link](https://links.rc3.world/)
+- [rc3 world link](https://links.rc3.world/)
 - [rc3 map urls](https://gist.github.com/MichaelKreil/e967f4b91b3c147fc8b414f88bde9dae)
 - [map validator](https://github.com/tiefpunkt/rc3-world-map-validator)
 - [chaos-world entrance](https://play.wa.binary-kitchen.de/_/global/c0c0bird.github.io/chaos-world/main.json)
