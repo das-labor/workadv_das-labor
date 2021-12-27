@@ -1507,19 +1507,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"divoc-functional",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"tilesetCopyright",
-                         "type":"string",
-                         "value":"unknown"
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
