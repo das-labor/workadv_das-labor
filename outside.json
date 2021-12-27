@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":17,
@@ -23,7 +22,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"main.json"
                 }],
@@ -138,7 +137,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -163,11 +162,6 @@
          "margin":0,
          "name":"Terrain and Outside",
          "spacing":0,
-         "terrains":[
-                {
-                 "name":"sand",
-                 "tile":310
-                }],
          "tilecount":1024,
          "tileheight":32,
          "tiles":[
@@ -178,8 +172,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[0, 0, 0, -1]
+                        }]
                 }, 
                 {
                  "id":215,
@@ -188,8 +181,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[0, 0, -1, 0]
+                        }]
                 }, 
                 {
                  "id":246,
@@ -198,8 +190,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[0, -1, 0, 0]
+                        }]
                 }, 
                 {
                  "id":247,
@@ -208,8 +199,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[-1, 0, 0, 0]
+                        }]
                 }, 
                 {
                  "id":277,
@@ -218,8 +208,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[-1, -1, -1, 0]
+                        }]
                 }, 
                 {
                  "id":278,
@@ -228,8 +217,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[-1, -1, 0, 0]
+                        }]
                 }, 
                 {
                  "id":279,
@@ -238,8 +226,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[-1, -1, 0, -1]
+                        }]
                 }, 
                 {
                  "id":309,
@@ -248,12 +235,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[-1, 0, -1, 0]
-                }, 
-                {
-                 "id":310,
-                 "terrain":[0, 0, 0, 0]
+                        }]
                 }, 
                 {
                  "id":311,
@@ -262,8 +244,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[0, -1, 0, -1]
+                        }]
                 }, 
                 {
                  "id":341,
@@ -272,8 +253,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[-1, 0, -1, -1]
+                        }]
                 }, 
                 {
                  "id":342,
@@ -282,8 +262,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[0, 0, -1, -1]
+                        }]
                 }, 
                 {
                  "id":343,
@@ -292,8 +271,7 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }],
-                 "terrain":[0, -1, -1, -1]
+                        }]
                 }, 
                 {
                  "id":818,
@@ -367,7 +345,73 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
+         "tilewidth":32,
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"sand",
+                         "probability":1,
+                         "tile":310
+                        }],
+                 "name":"Terrains",
+                 "tile":-1,
+                 "type":"corner",
+                 "wangtiles":[
+                        {
+                         "tileid":214,
+                         "wangid":[0, 1, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":215,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":246,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":247,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":277,
+                         "wangid":[0, 0, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":278,
+                         "wangid":[0, 0, 0, 1, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":279,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                        }, 
+                        {
+                         "tileid":309,
+                         "wangid":[0, 1, 0, 1, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":310,
+                         "wangid":[0, 1, 0, 1, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":311,
+                         "wangid":[0, 0, 0, 0, 0, 1, 0, 1]
+                        }, 
+                        {
+                         "tileid":341,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 0]
+                        }, 
+                        {
+                         "tileid":342,
+                         "wangid":[0, 1, 0, 0, 0, 0, 0, 1]
+                        }, 
+                        {
+                         "tileid":343,
+                         "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                        }]
+                }]
         }, 
         {
          "columns":4,
@@ -410,6 +454,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":26
 }
