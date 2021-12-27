@@ -442,12 +442,6 @@
  "nextlayerid":41,
  "nextobjectid":2,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"openWebsite",
-         "type":"string",
-         "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/portal_deskinfo.html"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
