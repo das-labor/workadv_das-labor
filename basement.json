@@ -40,7 +40,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"audioLoop",
                  "type":"string",
                  "value":"media\/547253__antwerpsounddesign__drip-drops-leaky-basement.mp3"
                 }],
@@ -404,12 +404,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openwebsite",
-                 "type":"string",
-                 "value":"https:\/\/das-labor.github.io\/workadv_das-labor\/portal_deskinfo.html"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":55,
