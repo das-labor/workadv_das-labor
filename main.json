@@ -464,6 +464,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"office_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":2,
          "tilecount":256,
          "tileheight":32,
@@ -1333,6 +1339,12 @@
          "imagewidth":272,
          "margin":1,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":2,
          "tilecount":64,
          "tileheight":32,
@@ -1356,6 +1368,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"labor",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":30,
          "tileheight":32,
@@ -1369,6 +1387,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1382,6 +1406,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1395,6 +1425,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1458,6 +1494,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"mullana"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -1474,6 +1516,16 @@
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"unknown"
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
@@ -1484,6 +1536,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"RC3-2021",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
