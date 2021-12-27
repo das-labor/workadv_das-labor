@@ -61,7 +61,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge\/"
+                 "value":"world:\/\/lobby\/pcb.json#start_daslabor"
                 }],
          "type":"tilelayer",
          "visible":true,
