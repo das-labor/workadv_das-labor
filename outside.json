@@ -148,6 +148,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -161,6 +167,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"Terrain and Outside",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -421,6 +433,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"signpost-outsidestuff",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -434,6 +452,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"Fairydust_Small",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"unknown"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -447,6 +471,12 @@
          "imagewidth":544,
          "margin":2,
          "name":"deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviant milkian"
+                }],
          "spacing":2,
          "tilecount":256,
          "tileheight":32,
