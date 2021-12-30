@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"basement.json"
+                 "value":"basement.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"outside.json"
+                 "value":"outside.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
