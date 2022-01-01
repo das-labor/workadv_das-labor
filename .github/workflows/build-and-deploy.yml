@@ -16,8 +16,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Optimize map
-        uses: thecodingmachine/map-optimizer-action@master
+      #- name: Optimize map
+      #  uses: thecodingmachine/map-optimizer-action@master
 
       - name: Bash
         run: |
