@@ -19,13 +19,13 @@ jobs:
       #- name: Optimize map
       #  uses: thecodingmachine/map-optimizer-action@master
 
-      - name: Bash
-        run: |
-          ls -al
-          git config --global user.email "d.negrier@thecodingmachine.com"
-          git config --global user.name "David Négrier"
-          git checkout main
-          git commit -am "Adding files"
+      #- name: Bash
+      #  run: |
+      #    ls -al
+      #    git config --global user.email "d.negrier@thecodingmachine.com"
+      #    git config --global user.name "David Négrier"
+      #    git checkout main
+      #    git commit -am "Adding files"
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
