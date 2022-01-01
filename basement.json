@@ -81,7 +81,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl.bak",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/_\/global\/c0c0bird.github.io\/chaos-world\/main.json#start_ruhr"
                 }],
@@ -99,7 +99,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl.bak",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/_\/global\/maps.kraut.world\/2D-Welt-thueringen\/main.json"
                 }],
