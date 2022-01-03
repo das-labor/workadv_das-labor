@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/pcb.json#start_daslabor"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
